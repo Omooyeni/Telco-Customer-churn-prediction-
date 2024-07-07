@@ -28,6 +28,12 @@ F1-Score
 ROC-AUC
 The final model was selected based on its performance on these metrics, with a particular focus on recall to minimize false negatives.
 
+**Hyperparameter Tuning** Hyperparameter tuning was performed using GridSearchCV on the select best Model.
+
+**Model Testing** Test the model using the test data.
+
+**Business Impact Assessment and Documentation of the Model** Writing the Business Impact Assessment and Documentation of the Model.
+
 **Conclusion**
 The project successfully identified key factors influencing customer churn and developed a predictive model with high accuracy and recall. The insights gained can help the telec company implement targeted retention strategies to reduce churn.
 
