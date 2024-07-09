@@ -40,3 +40,4 @@ The project successfully identified key factors influencing customer churn and d
 
 ![alt text](<Screenshot 2024-07-07 080126.png>)
 
+![alt text](<Screenshot 2024-07-07 080126.png>)
