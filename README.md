@@ -38,5 +38,5 @@ The final model was selected based on its performance on these metrics, with a p
 The project successfully identified key factors influencing customer churn and developed a predictive model with high accuracy and recall. The insights gained can help the telec company implement targeted retention strategies to reduce churn.
 
 
-
+![alt text](<Screenshot 2024-07-07 080126.png>)
 
