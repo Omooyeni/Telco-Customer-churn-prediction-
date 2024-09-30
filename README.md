@@ -13,11 +13,11 @@ Evaluation
 Conclusion
 
 
-**Business Understanding:** At the Stage of Business Understanding I define the problem statement of the project, define the objective, I also define the Key Metrics and Success Criteria, and procced to give explanation of each column in the dataset, develope my Null and Alteenate hypothesis as well as state the Analytical Question to be Answered.
+**Business Understanding:** At the Stage of Business Understanding we define the problem statement of the project, define the objective, we also define the Key Metrics and Success Criteria, and procced to give explanation of each column in the dataset, develope Null and Alteenative hypothesis as well as state the Analytical Question to be Answered.
 
-**Data Understanding** I started the Data Understanding stage by importing all the necessary libraries Create a connection by accessing the connection string with the environment variables and get the first dataset from the database then download the second data from GitHub repository and laod to daframe, I move on to concatenate the two datasets, and proceed to do exploratory data analysis which include (Multi-variate, Bi-variate and Univariate analyses), then do the Hypothesis test and also anwered all the Analytical Questions.
+**Data Understanding** We started the Data Understanding stage by importing all the necessary libraries Create a connection by accessing the connection string with the environment variables and get the first dataset from the database then download the second data from GitHub repository and laod to daframe, we move on to concatenate the two datasets, clean it and proceed to do exploratory data analysis which include (Multi-variate, Bi-variate and Univariate analyses), then do the Hypothesis test and also anwered all the Analytical Questions.
 
-**Data Preparation** this stage includes Putting all the preprocessing steps into a ColumnTransformersteps, and create a pipeline that includes the preprocessor and a classifier, fit the pipeline to the training data, redict on the test set and evaluate the module results, Several machine learning models were tested to predict customer churn, including: Random Forests, k-NN classifier, Decision Tree Pipeline, Gradient Boosting Classifier Pipeline.
+**Data Preparation** This stage includes Putting all the preprocessing steps into a ColumnTransformersteps, and create a pipeline that includes the preprocessor and a classifier, fit the pipeline to the training data, redict on the test set and evaluate the module results, Several machine learning models were tested to predict customer churn, including: Random Forests, k-NN classifier, Decision Tree Pipeline, Gradient Boosting Classifier Pipeline.
 
 **Evaluation** The performance of the models was evaluated using the following metrics:
 
